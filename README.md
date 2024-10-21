@@ -43,7 +43,7 @@ This portfolio website was built to highlight my coding projects, professional e
 
 If you have any questions, feedback, or collaboration ideas, feel free to reach out!
 
-- Email: [YourEmail@example.com](mailto:christianbdejong@gmail.com)
+- Email: [christianbdejong@gmail.com](mailto:christianbdejong@gmail.com)
 - GitHub: [@cdejong1](https://github.com/cdejong1)
 
 Thank you for visiting my portfolio!
